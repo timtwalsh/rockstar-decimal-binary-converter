@@ -1,6 +1,6 @@
 # rockstar-decimal-binary-converter
 A rockstar implementation of a simple Decimal to Binary converter
-
+```
 Pain takes Cause and Effect (function pain[cause, effect])
 while Cause is as high as Effect (while cause >= effect)
 Put Cause minus Effect into Cause (cause = cause - effect)
@@ -25,3 +25,4 @@ Knock the Devil down (devil--)
 while the Devil is as high as Hatred (while devil >= hatred)
 shout Fear at the Devil (print[fear[devil]])
 Knock the Devil down (devil--)
+```
